@@ -17,7 +17,7 @@ footer: https://bit.ly/3vFnQYj
 
 https://docs.python.org/3/whatsnew/3.10.html#better-error-messages
 
-![inline](Screenshot 2022-03-03 at 16.53.31.png)
+![inline](syntax-error.png)
 
 (Thanks Elm!)
 
@@ -28,7 +28,7 @@ https://docs.python.org/3/whatsnew/3.10.html#better-error-messages
 https://docs.python.org/3/whatsnew/3.10.html#pep-634-structural-pattern-matching
 
 
-![inline](Screenshot 2022-03-03 at 16.58.16.png)
+![inline](pattern-match.png)
 
 (Thanks ML languages!)
 
@@ -40,7 +40,7 @@ https://docs.python.org/3/whatsnew/3.10.html#pep-634-structural-pattern-matching
 
 # VisiData: https://www.visidata.org
 
-![inline](Screenshot 2022-03-03 at 16.48.31.png)
+![inline](visidata.png)
 
 ---
 
@@ -60,7 +60,7 @@ https://docs.python.org/3/whatsnew/3.10.html#pep-634-structural-pattern-matching
 
 Not new but I just discovered it plugs into Jupyter
 
-![inline](Screenshot 2022-03-03 at 17.34.46.png)
+![inline](tqdm.png)
 
 (Works in Visual Studio Code notebook editor too!)
 
